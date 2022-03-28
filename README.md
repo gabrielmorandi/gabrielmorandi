@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gabrielmorandi
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me: gabriel.morandi.mello@gmail.com
