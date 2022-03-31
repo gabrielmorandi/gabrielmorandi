@@ -30,7 +30,7 @@
 
 ---
 
-![Status](https://github-readme-stats.vercel.app/api?username=gabrielmorandi&show_icons=true)
+<!-- ![Status](https://github-readme-stats.vercel.app/api?username=gabrielmorandi&show_icons=true) -->
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmorandi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
