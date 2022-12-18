@@ -3,7 +3,7 @@
 ## I'am a technology enthusiast, Systems Analyst and Developer.
 
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and Sass
 - 📫 How to reach me: gabriel.morandi.mello@gmail.com
 
 ## 🌐 Socials:
