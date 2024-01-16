@@ -24,7 +24,7 @@
 </details>
 
 <details open>
-<summary><b>🗄️ Database</b></summary>
+<summary><b>Database</b></summary>
 <br>
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
